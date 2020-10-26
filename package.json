@@ -4,18 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "compile:sass":"node-sass --watch sass/main.scss css/style.css"
+    "compile:sass": "node-sass --watch sass/main.scss css/style.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaimeeCM/Natours-.git"
+    "url": "git+https://github.com/Dragolex01/natours.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaimeeCM/Natours-/issues"
+    "url": "https://github.com/Dragolex01/natours/issues"
   },
-  "homepage": "https://github.com/JaimeeCM/Natours-#readme",
+  "homepage": "https://github.com/Dragolex01/natours#readme",
   "devDependencies": {
     "node-sass": "^4.14.1"
   }
