@@ -1,22 +1,14 @@
 {
-  "name": "natours",
+  "name": "Natours",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "repository": "git@github.com:DAWZayas/Natours.git",
+  "author": "surtich <surtich@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "compile:sass": "node-sass --watch sass/main.scss css/style.css"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Dragolex01/natours.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Dragolex01/natours/issues"
-  },
-  "homepage": "https://github.com/Dragolex01/natours#readme",
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^4.12.0"
   }
 }
